@@ -174,7 +174,7 @@ HTML_CONTENT = """
         </div>
         
         <div class="button-grid">
-            <button class="btn-operation" onclick="calculate('add')">➕ Add</button>
+            <button class="btn-operation" onclick="calculate('add')">➕ Adddddd</button>
             <button class="btn-operation" onclick="calculate('subtract')">➖ Subtract</button>
             <button class="btn-operation" onclick="calculate('multiply')">✖️ Multiply</button>
             <button class="btn-operation" onclick="calculate('divide')">➗ Divide</button>
